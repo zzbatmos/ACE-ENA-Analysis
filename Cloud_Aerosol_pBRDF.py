@@ -14,6 +14,7 @@ import matplotlib as mpl
 from matplotlib import rc
 import netCDF4
 import PSD
+import seaborne
 
 def scat_ang(Theta0,Thetav,Phi0,Phiv):
 	'''
